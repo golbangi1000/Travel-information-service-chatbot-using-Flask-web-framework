@@ -1,0 +1,11 @@
+spacy==3.3.1 //check
+flask==2.2.2 //check
+googletrans==3.1.0a0 //check
+matplotlib==3.5.3 //check
+pandas==1.3.5 //check
+scikit-learn==1.0.2 //check
+scipy==1.7.3 //check 
+xgboost==1.6.1 //check
+joblib==1.1.0  //check
+selenium //check
+beautifulsoup4 //check
